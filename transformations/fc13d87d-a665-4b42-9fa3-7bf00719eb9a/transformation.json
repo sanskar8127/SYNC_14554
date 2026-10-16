@@ -1,0 +1,22 @@
+{
+  "id": "fc13d87d-a665-4b42-9fa3-7bf00719eb9a",
+  "name": "trans15",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "sqlserver_dest",
+  "trigger": {
+    "type": null
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": null,
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}
