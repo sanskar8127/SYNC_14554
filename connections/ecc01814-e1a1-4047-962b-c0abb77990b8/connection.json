@@ -1,0 +1,23 @@
+{
+  "id": "ecc01814-e1a1-4047-962b-c0abb77990b8",
+  "display_name": "Postgresql1",
+  "name": "postgresql1",
+  "connector": {
+    "name": "CData PostgreSQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "AuthScheme": "Password",
+    "Password": "SECURE:rz6hq2uz8enXI2+QU/K13C9EczzQBoUZ3hF4Oasew0MfYMqOjO2lM6TdbkiySoWuAxDzrrhUiijE6w==",
+    "Database": "postgres",
+    "User": "postgres"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}
