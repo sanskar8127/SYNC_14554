@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1031456749930024961,
+      "job_id": "61430c8e-d99f-4b37-96e5-8cc0024c01b5",
+      "query": "REPLICATE [allagendaitems] SELECT * FROM [db2].[allagendaitems]",
+      "is_active": true
+    }
+  ]
+}
